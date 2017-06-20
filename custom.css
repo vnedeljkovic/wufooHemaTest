@@ -1,13 +1,7 @@
-/* - - - - - - - - - - - - - - - - - - - - -
-
- Title :
- Author :
- URL : http://
-
- Last Updated :
-
-- - - - - - - - - - - - - - - - - - - - - */
-
 body, * {
 	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif !important;
+}
+.wufoo .info h2 {
+	font-size: 30px !important;
+	color: orange !important;
 }
